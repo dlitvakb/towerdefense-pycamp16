@@ -33,6 +33,8 @@ tower_images = {
         'Comunacha': load_tower('tower.png'),
         'Indecisa': load_tower('tower-indecisa.png'),
         'Bully': load_tower('tower-bully.png'),
+        'Chiflete': load_tower('tower-chiflete.png'),
+        'PechoFrio': load_tower('tower-chiflete.png')
 }
 
 img_deaths = []
